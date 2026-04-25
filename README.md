@@ -7,6 +7,32 @@ Este repositorio actúa como el punto central de coordinación y gestión para e
 Todo el seguimiento de tareas, asignación de responsabilidades y estado actual del desarrollo se gestiona a través de nuestro tablero global:
 * [Tablero Kanban Global de Eurobot 2027](enlace_al_project_de_github)
 
+## 🚀 Guía de Inicio Rápido (Full Stack)
+
+Si eres un gestor o un desarrollador que necesita acceso a todo el ecosistema (Hardware, Software, Firmware y Docs), sigue estos pasos:
+
+1. **Prerrequisitos**: Instala la herramienta `vcstool` (estándar en ROS 2):
+   ```bash
+   sudo apt pull python3-vcstool
+   ```
+
+2. **Clonar y Desplegar**:
+   ```bash
+   # 1. Clona el repositorio central
+   git clone https://github.com/TnTivanTnT/eurobot2027.git
+   cd eurobot2027
+
+   # 2. Importa todos los sub-repositorios en la carpeta raíz
+   vcs import .. < eurobot2027_full.repos
+   ```
+
+3. **Mantenerse actualizado**: Para descargar los últimos cambios de todos los repositorios a la vez:
+   ```bash
+   vcs pull ..
+   ```
+
+---
+
 ## 🏗️ Arquitectura de Repositorios
 
 El proyecto está dividido de forma modular para aislar entornos y facilitar el trabajo en paralelo de las distintas disciplinas:
