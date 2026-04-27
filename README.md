@@ -1,4 +1,4 @@
-# Eurobot 2027 - [Nombre de la Universidad/Equipo]
+# Eurobot 2027 - STAR UMA
 
 Este repositorio actúa como el punto central de coordinación y gestión para el desarrollo del robot participante en Eurobot 2027. Aquí no se aloja código fuente, sino la estructura del proyecto y los enlaces a los distintos sub-dominios.
 
