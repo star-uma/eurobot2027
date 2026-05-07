@@ -1,22 +1,22 @@
 repositories:
   eurobot2027_software:
     type: git
-    url: https://github.com/TnTivanTnT/eurobot2027_software.git
+    url: https://github.com/star-uma/eurobot2027_software.git
     version: main
 
   eurobot2027_hardware_electromecanica:
     type: git
-    url: https://github.com/TnTivanTnT/eurobot2027_hardware_electromecanica.git
+    url: https://github.com/star-uma/eurobot2027_hardware_electromecanica.git
     version: main
 
   eurobot2027_software_firmware_esp32:
     type: git
-    url: https://github.com/TnTivanTnT/eurobot2027_software_firmware_esp32.git
+    url: https://github.com/star-uma/eurobot2027_software_firmware_esp32.git
     version: main
 
   eurobot2027_software_simulacion:
     type: git
-    url: https://github.com/TnTivanTnT/eurobot2027_software_simulacion.git
+    url: https://github.com/star-uma/eurobot2027_software_simulacion.git
     version: main
 
   # Estos deben permanecer en src/ por arquitectura ROS 2
