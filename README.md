@@ -23,12 +23,12 @@ Si eres un gestor o un desarrollador que necesita acceso a todo el ecosistema (H
    cd eurobot2027
 
    # 2. Importa todos los sub-repositorios en la carpeta raíz
-   vcs import .. < eurobot2027_full.repos
+   vcs import . < eurobot2027_full.repos
    ```
 
 3. **Mantenerse actualizado**: Para descargar los últimos cambios de todos los repositorios a la vez:
    ```bash
-   vcs pull ..
+   vcs pull .
    ```
 
 ---
