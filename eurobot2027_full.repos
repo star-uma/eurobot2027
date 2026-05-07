@@ -4,24 +4,19 @@ repositories:
     url: https://github.com/TnTivanTnT/eurobot2027_software.git
     version: main
 
-  eurobot2027_documentacion:
+  eurobot2027_hardware_electromecanica:
     type: git
-    url: https://github.com/TnTivanTnT/eurobot2027_documentacion.git
+    url: https://github.com/TnTivanTnT/eurobot2027_hardware_electromecanica.git
     version: main
 
-  eurobot2027_hardware_mecanica:
+  eurobot2027_software_firmware_esp32:
     type: git
-    url: https://github.com/TnTivanTnT/eurobot2027_hardware_mecanica.git
+    url: https://github.com/TnTivanTnT/eurobot2027_software_firmware_esp32.git
     version: main
 
-  eurobot2027_hardware_electronica:
+  eurobot2027_software_simulacion:
     type: git
-    url: https://github.com/TnTivanTnT/eurobot2027_hardware_electronica.git
-    version: main
-
-  eurobot2027_firmware_esp32:
-    type: git
-    url: https://github.com/TnTivanTnT/eurobot2027_firmware_esp32.git
+    url: https://github.com/TnTivanTnT/eurobot2027_software_simulacion.git
     version: main
 
   # Estos deben permanecer en src/ por arquitectura ROS 2
@@ -32,8 +27,4 @@ repositories:
   eurobot2027_software/src/eurobot2027_software_control:
     type: git
     url: https://github.com/TnTivanTnT/eurobot2027_software_control.git
-    version: main
-  eurobot2027_software/src/eurobot2027_software_simulacion:
-    type: git
-    url: https://github.com/TnTivanTnT/eurobot2027_software_simulacion.git
     version: main
