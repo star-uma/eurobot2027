@@ -5,7 +5,7 @@ Este repositorio actúa como el punto central de coordinación y gestión para e
 ## 📌 Gestión del Proyecto
 
 Todo el seguimiento de tareas, asignación de responsabilidades y estado actual del desarrollo se gestiona a través de nuestro tablero global:
-* [Tablero Kanban Global de Eurobot 2027](enlace_al_project_de_github)
+* [Tablero Kanban Global de Eurobot 2027](https://github.com/orgs/star-uma/projects/40)
 
 ## 🚀 Guía de Inicio Rápido (Full Stack)
 
@@ -39,8 +39,7 @@ El proyecto está dividido de forma modular para aislar entornos y facilitar el 
 
 ### ⚙️ Hardware y Mecánica
 Contiene todos los modelos 3D, ensamblajes, esquemas electrónicos y PCBs.
-* [eurobot2027_hardware_mecanica](https://github.com/star-uma/eurobot2027_hardware_mecanica.git) - CAD y piezas estructurales.
-* [eurobot2027_hardware_electronica](https://github.com/star-uma/eurobot2027_hardware_electronica.git) - Placas, ruteo y listas de materiales.
+* [eurobot2027_hardware_electromecanica](https://github.com/star-uma/eurobot2027_hardware_electromecanica.git).
 
 ### 💻 Software y Control (ROS 2)
 El ecosistema de software está distribuido. Para instalar el robot completo, dirígete al meta-repositorio de software.
@@ -52,7 +51,7 @@ El ecosistema de software está distribuido. Para instalar el robot completo, di
 
 ### 📚 Documentación
 Manuales generales, normativas del equipo y archivos de referencia.
-* [eurobot2027_documentacion](https://github.com/star-uma/eurobot2027_documentacion.git) - Reglamentos, arquitectura general y guías de onboarding.
+* [Reglamento](https://github.com/star-uma/eurobot2027/Documetacion/Reglamento) - Reglamento.
 
 ---
 *Para nuevos miembros: Por favor, dirígete al repositorio de Documentación y lee la guía de Onboarding antes de solicitar acceso a los repositorios de código o diseño.*
