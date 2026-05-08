@@ -51,7 +51,7 @@ El ecosistema de software está distribuido. Para instalar el robot completo, di
 
 ### 📚 Documentación
 Manuales generales, normativas del equipo y archivos de referencia.
-* [Reglamento](https://github.com/star-uma/eurobot2027/Documetacion/Reglamento) - Reglamento.
+* [Reglamento](https://github.com/star-uma/eurobot2027/tree/main/Documentacion/Reglamento) - Reglamento.
 
 ---
 *Para nuevos miembros: Por favor, dirígete al repositorio de Documentación y lee la guía de Onboarding antes de solicitar acceso a los repositorios de código o diseño.*
